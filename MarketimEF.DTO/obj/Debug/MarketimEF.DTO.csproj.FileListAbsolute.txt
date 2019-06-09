@@ -1,0 +1,12 @@
+C:\Users\Bülent Başyurt\source\repos\MarketimEF\MarketimEF.DTO\bin\Debug\MarketimEF.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MarketimEF\MarketimEF.DTO\bin\Debug\MarketimEF.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.csprojAssemblyReference.cache
+C:\Users\Bülent Başyurt\source\repos\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.pdb
+F:\bülent hoca\MarketimEF\MarketimEF.DTO\bin\Debug\MarketimEF.DTO.dll
+F:\bülent hoca\MarketimEF\MarketimEF.DTO\bin\Debug\MarketimEF.DTO.pdb
+F:\bülent hoca\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.csprojAssemblyReference.cache
+F:\bülent hoca\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.csproj.CoreCompileInputs.cache
+F:\bülent hoca\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.dll
+F:\bülent hoca\MarketimEF\MarketimEF.DTO\obj\Debug\MarketimEF.DTO.pdb
